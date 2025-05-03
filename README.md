@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tatn-mcp-server-diff-python-badge.png)](https://mseep.ai/app/tatn-mcp-server-diff-python)
+
 # mcp-server-diff-python
 
 An MCP server for obtaining text differences between two strings.
